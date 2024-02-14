@@ -1,0 +1,29 @@
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 10px;
+}
+.img{
+    height: 250px;
+}
+.id{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card:hover{
+    box-shadow: 2px 2px 5px gray;
+}
+.thambox{
+    display: flex;
+}
+.text{
+    font-size: 16px !important;
+}
+.tham{
+    height: 80px !important;
+    width: 80px !important;
+    margin-left: 10px;
+}
